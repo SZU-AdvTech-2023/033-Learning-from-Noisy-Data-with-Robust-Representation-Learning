@@ -1,0 +1,7 @@
+@inproceedings{REPO033,
+    author = "Li, Junnan and Xiong, Caiming and Hoi, Steven CH",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "9485--9494",
+    title = "{Learning from Noisy Data with Robust Representation Learning}",
+    year = "2021"
+}
